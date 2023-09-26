@@ -49,6 +49,9 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
+## 📝 Blog Posts
+* [Getting Started with HTML/CSS: A Beginner Friendly Guide](https://medium.com/@alpattex/web-development-getting-started-with-html-css-a-beginner-friendly-guide-6bdbde9999b8)
+
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
 - LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea)
