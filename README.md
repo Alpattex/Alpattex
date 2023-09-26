@@ -61,8 +61,5 @@
 
 <!-- Most Used Languages -->
 <h2>Most Used Languages</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrabea&layout=compact&theme=radical" alt="Most Used Languages">
-</p>
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alpattex)](https://github.com/Alpattex/github-readme-stats)
 <!-- Footer -->
