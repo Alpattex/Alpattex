@@ -8,6 +8,7 @@
 ## About Me
 - 📅 Age: 25
 - 🚀 Learning: JavaScript, Front-end and Back-end development.
+- 🎯 My Goal is to Contribute to as many **open source project** as possible.
 - 💡 Fun Fact: I majored in civil and construction engineering before discovering my passion for web development.
 
 <!-- Current Projects -->
@@ -47,13 +48,20 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
 <!-- Connect with Me -->
 ## Connect with Me
 - LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea)
-- Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev)
+- Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev) [Not Yet Live]
 
 <!-- GitHub Visitors Counter -->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&labelColor=%23ff8a65&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alpattex)
+
+<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#Alpattex&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Alpattex" /> 
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#Alpattex&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Alpattex" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Alpattex&theme=highcontrast&hide_border=true" alt="#Alpattex" />
+</p>
 
 <!-- GitHub Stats -->
 ## GitHub Stats
