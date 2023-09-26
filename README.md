@@ -57,12 +57,6 @@
 <!-- GitHub Visitors Counter -->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&labelColor=%23ff8a65&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alpattex)
 
-<p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=#Alpattex&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&layout=compact&hide_border=true" alt="#Alpattex" /> 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=#Alpattex&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="#Alpattex" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=#Alpattex&theme=highcontrast&hide_border=true" alt="#Alpattex" />
-</p>
-
 <!-- GitHub Stats -->
 ## GitHub Stats
 ![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
