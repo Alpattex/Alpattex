@@ -53,7 +53,7 @@
 
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
-- LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea)
+- LinkedIn: SOON!
 - Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev) [Not Yet Live]
 
 <!-- GitHub Visitors Counter -->
