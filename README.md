@@ -56,6 +56,6 @@
 - Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev)
 
 <!-- GitHub Visitors Counter -->
-![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&countColor=%23263759&style=plastic)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&labelColor=%23ff8a65&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alpattex)
 
 <!-- Footer -->
