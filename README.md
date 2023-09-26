@@ -6,7 +6,6 @@
 
 <!-- Bio -->
 ## About Me
-- 📅 Age: 25
 - 🚀 Learning: JavaScript, Front-end and Back-end development.
 - 🎯 My Goal is to Contribute to as many **open source project** as possible.
 - 💡 Fun Fact: I majored in civil and construction engineering before discovering my passion for web development.
