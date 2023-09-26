@@ -19,7 +19,7 @@
 
 
 <!-- Skills -->
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -65,7 +65,7 @@
 ![Alpattex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
 ![Alpattex's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpattex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ## 💰 You can help me by Donating
