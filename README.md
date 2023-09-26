@@ -19,7 +19,7 @@
 
 
 <!-- Skills -->
-## Skills
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -50,7 +50,7 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 <!-- Connect with Me -->
-## Connect with Me
+## 🌐 Connect with Me
 - LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea)
 - Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev) [Not Yet Live]
 
@@ -59,6 +59,11 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
+![Alpattex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
+![Alpattex's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpattex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Footer -->
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a.rabea) 
