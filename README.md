@@ -8,7 +8,7 @@
 ## About Me
 - 🚀 Learning: JavaScript, Front-end and Back-end development.
 - 🎯 My Goal is to Contribute to as many **open source project** as possible.
-- 💡 Fun Fact: I majored in civil and construction engineering before discovering my passion for web development.
+- 💡 Fun Fact: I can speak Arabic (natively) and English fluently.
 
 <!-- Current Projects -->
 ## Current Projects
