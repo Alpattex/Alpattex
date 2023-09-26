@@ -16,9 +16,6 @@
 - 🌱 I’m currently learning JavaScript to enhance my development skills.
 - 💬 Ask me about web development - I'm always excited to discuss and share knowledge!
 
-<!-- GitHub Stats -->
-## GitHub Stats
-![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrabea&show_icons=true&theme=radical)
 
 <!-- Skills -->
 ## Skills
@@ -57,5 +54,15 @@
 
 <!-- GitHub Visitors Counter -->
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&labelColor=%23ff8a65&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alpattex)
+
+<!-- GitHub Stats -->
+## GitHub Stats
+![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrabea&show_icons=true&theme=radical)
+
+<!-- Most Used Languages -->
+<h2>Most Used Languages</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedrabea&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
 <!-- Footer -->
