@@ -57,7 +57,6 @@
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrabea&show_icons=true&theme=radical)
-
+![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
 
 <!-- Footer -->
