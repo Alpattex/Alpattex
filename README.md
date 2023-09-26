@@ -59,7 +59,5 @@
 ## GitHub Stats
 ![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedrabea&show_icons=true&theme=radical)
 
-<!-- Most Used Languages -->
-<h2>Most Used Languages</h2>
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Alpattex)](https://github.com/Alpattex/github-readme-stats)
+
 <!-- Footer -->
