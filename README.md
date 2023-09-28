@@ -49,6 +49,7 @@
 
 ## 📝 Blog Posts
 * [Getting Started with HTML/CSS: A Beginner Friendly Guide](https://medium.com/@alpattex/web-development-getting-started-with-html-css-a-beginner-friendly-guide-6bdbde9999b8)
+* [10 CSS Tips and Tricks for Absolute Beginners](https://medium.com/@alpattex/web-development-10-css-tips-and-tricks-for-absolute-beginners-d78134d4292c)
 
 <!-- Connect with Me -->
 ## 🌐 Connect with Me
@@ -66,7 +67,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-## 💰 You can help me by Donating
+## ☕ You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a.rabea) 
 
 
