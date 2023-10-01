@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Ahmed Rabea, a dedicated web developer based i
 - 🎯 Aspiring to contribute to numerous open-source projects.
 - 💡 Proficient in Graphic Design.
 
-## Current Endeavors
+## Current Projects
 - 🔭 Actively engaged in diverse web application projects.
 - 🌱 Learning JavaScript to elevate my development proficiency.
 - 💬 Always open to discussions about web development and eager to share knowledge!
