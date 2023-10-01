@@ -1,24 +1,18 @@
-<!-- Header -->
-# Hello, I'm Ahmed Rabea! 👋
-- 🌐 I'm a passionate web developer based in Cairo, Egypt.
-- 🎓 I hold a Bachelor's degree in Civil and Construction Engineering.
-- 💼 Currently seeking my first web developer job opportunity.
+# Ahmed Rabea | Web Developer 👨‍💻
 
-<!-- Bio -->
+Welcome to my GitHub profile! I'm Ahmed Rabea, a dedicated web developer based in Cairo, Egypt, holding a Bachelor's degree in Civil and Construction Engineering. My passion for web development has led me to explore both front-end and back-end technologies.
+
 ## About Me
-- 🚀 Learning: JavaScript, Front-end and Back-end development.
-- 🎯 My Goal is to Contribute to as many open source project as possible.
-- 💡 Fun Fact: I am proficient in Graphic Design.
+- 🚀 Currently expanding my skills in JavaScript, Front-end, and Back-end development.
+- 🎯 Aspiring to contribute to numerous open-source projects.
+- 💡 Proficient in Graphic Design.
 
-<!-- Current Projects -->
-## Current Projects
-- 🔭 I’m currently working on various web application projects.
-- 🌱 I’m currently learning JavaScript to enhance my development skills.
-- 💬 Ask me about web development - I'm always excited to discuss and share knowledge!
+## Current Endeavors
+- 🔭 Actively engaged in diverse web application projects.
+- 🌱 Learning JavaScript to elevate my development proficiency.
+- 💬 Always open to discussions about web development and eager to share knowledge!
 
-
-<!-- Skills -->
-## 💻 Tech Stack
+- ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -47,27 +41,24 @@
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-## 📝 Blog Posts
-* [Getting Started with HTML/CSS: A Beginner Friendly Guide](https://medium.com/@alpattex/web-development-getting-started-with-html-css-a-beginner-friendly-guide-6bdbde9999b8)
+## Blog Posts
+* [Getting Started with HTML/CSS: A Beginner-Friendly Guide](https://medium.com/@alpattex/web-development-getting-started-with-html-css-a-beginner-friendly-guide-6bdbde9999b8)
 * [10 CSS Tips and Tricks for Absolute Beginners](https://medium.com/@alpattex/web-development-10-css-tips-and-tricks-for-absolute-beginners-d78134d4292c)
 
-<!-- Connect with Me -->
-## 🌐 Connect with Me
+## Connect with Me
 - LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea/)
-- Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev) [Not Yet Live]
+- Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev) (Not Yet Live)
 
-<!-- GitHub Visitors Counter -->
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&labelColor=%23ff8a65&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alpattex)
-
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-![Alpattex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
-![Alpattex's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpattex&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## GitHub Stats
+![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
+![Ahmed Rabea's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpattex&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
-## ☕ You can help me by Donating
+## ☕ Support my Work
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a.rabea) 
 
+---
 
+Feel free to use and modify this as you see fit!
