@@ -46,8 +46,8 @@ Welcome to my GitHub profile! I'm Ahmed Rabea, a dedicated web developer based i
 * [10 CSS Tips and Tricks for Absolute Beginners](https://medium.com/@alpattex/web-development-10-css-tips-and-tricks-for-absolute-beginners-d78134d4292c)
 
 ## Connect with Me
-- LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea/)
-- Portfolio: [Ahmed Rabea](https://portfolio-4p13xxs4l-alpattex.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/a-rabea/)
+- [Portfolio](https://portfolio-4p13xxs4l-alpattex.vercel.app/)
 
 ## GitHub Stats
 ![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
