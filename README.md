@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm Ahmed Rabea, a dedicated web developer based i
 
 ## Connect with Me
 - LinkedIn: [Ahmed Rabea](https://www.linkedin.com/in/a-rabea/)
-- Portfolio: [ahmedrabea.dev](https://ahmedrabea.dev) (Not Yet Live)
+- Portfolio: [Ahmed Rabea](https://ahmedrabea.dev](https://portfolio-4p13xxs4l-alpattex.vercel.app/))
 
 ## GitHub Stats
 ![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
