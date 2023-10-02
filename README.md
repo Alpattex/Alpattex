@@ -50,7 +50,6 @@ Welcome to my GitHub profile! I'm Ahmed Rabea, a dedicated web developer based i
 - [Portfolio](https://portfolio-4p13xxs4l-alpattex.vercel.app/)
 
 ## GitHub Stats
-![Ahmed Rabea's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alpattex&show_icons=true&theme=radical)
 ![Ahmed Rabea's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpattex&theme=dark&hide_border=false&include_all_commits=true&layout=compact)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=alpattex&label=Visitors%20Counter&labelColor=%23ff8a65&countColor=%23ba68c8)](https://visitorbadge.io/status?path=alpattex)
