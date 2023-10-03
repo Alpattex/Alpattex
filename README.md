@@ -1,6 +1,6 @@
 # Ahmed Rabea | Full-Stack Developer 👨‍💻
 
-Welcome to my GitHub profile! I'm Ahmed Rabea, a dedicated web developer based in Cairo, Egypt, holding a Bachelor's degree in Civil and Construction Engineering. My passion for web development has led me to explore both front-end and back-end technologies.
+I'm Ahmed Rabea, a dedicated web developer based in Cairo, Egypt, holding a Bachelor's degree in Civil and Construction Engineering. My passion for web development has led me to explore both front-end and back-end technologies.
 
 ## About Me
 - 🚀 Currently expanding my skills in JavaScript, Front-end, and Back-end development.
