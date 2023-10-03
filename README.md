@@ -58,4 +58,4 @@ I'm Ahmed Rabea, a dedicated web developer based in Cairo, Egypt, holding a Bach
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ## ☕ Support my Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/a.rabea) 
+<a href="https://www.buymeacoffee.com/a.rabea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
