@@ -1,6 +1,6 @@
 # Ahmed Rabea | Full-Stack Developer 👨‍💻
 
-I'm Ahmed Rabea, a dedicated web developer based in Cairo, Egypt, holding a Bachelor's degree in Civil and Construction Engineering. My passion for web development has led me to explore both front-end and back-end technologies.
+Greetings! I'm Ahmed Rabea, a dynamic web developer based in Cairo, Egypt, armed with a Bachelor's degree in Civil and Construction Engineering. My journey in web development has seen me delve into both front-end and back-end technologies, with a passion for pushing the boundaries of what's possible.
 
 ## About Me
 - 🚀 Currently expanding my skills in JavaScript, Front-end, and Back-end development.
@@ -70,4 +70,5 @@ I'm Ahmed Rabea, a dedicated web developer based in Cairo, Egypt, holding a Bach
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ## ☕ Support my Work
+If you enjoy what I do and want to support my work, feel free to [Buy Me A Coffee](https://www.buymeacoffee.com/a.rabea). Your support keeps the code flowing!
 <a href="https://www.buymeacoffee.com/a.rabea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
