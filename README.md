@@ -1,15 +1,15 @@
-# Ahmed Rabea | Full-Stack Developer 👨‍💻
+# Ahmed Rabea | Full-Stack Developer
 
-Greetings! I'm Ahmed Rabea, a dynamic web developer based in Cairo, Egypt, armed with a Bachelor's degree in Civil and Construction Engineering. My journey in web development has seen me delve into both front-end and back-end technologies, with a passion for pushing the boundaries of what's possible.
+Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I bring a blend of skills in HTML, CSS, JavaScript, React, Node.js, and Express to the table. With a solid foundation in database management using MongoDB, PostgreSQL, and SQLite, I'm all about creating robust and dynamic web applications.
 
 ## About Me
 - 🚀 Currently expanding my skills in JavaScript, Front-end, and Back-end development.
 - 🎯 Aspiring to contribute to numerous open-source projects.
-- 💡 Proficient in Graphic Design.
+- 💡 Fun fact: I'm proficient in graphic design.
 
 ## Current Projects
 - 🔭 Actively engaged in diverse web application projects.
-- 🌱 Learning JavaScript to elevate my development proficiency.
+- 🌱 Learning new skills and tools to elevate my development proficiency.
 - 💬 Always open to discussions about web development and eager to share knowledge!
 
 ## 💻 Tech Stack
@@ -32,6 +32,7 @@ Greetings! I'm Ahmed Rabea, a dynamic web developer based in Cairo, Egypt, armed
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
