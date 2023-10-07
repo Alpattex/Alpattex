@@ -49,7 +49,7 @@ Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I b
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ## Blog Posts
 * [Getting Started with HTML/CSS: A Beginner-Friendly Guide](https://medium.com/@alpattex/web-development-getting-started-with-html-css-a-beginner-friendly-guide-6bdbde9999b8)
