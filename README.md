@@ -51,7 +51,7 @@ Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I b
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-## Blog Posts
+## 📝 Blog Posts
 * [Getting Started with HTML/CSS: A Beginner-Friendly Guide](https://medium.com/@alpattex/web-development-getting-started-with-html-css-a-beginner-friendly-guide-6bdbde9999b8)
 * [10 CSS Tips and Tricks for Absolute Beginners](https://medium.com/@alpattex/web-development-10-css-tips-and-tricks-for-absolute-beginners-d78134d4292c)
 * [Unlocking the Power of Collaboration: A Beginner’s Guide to Git](https://medium.com/@alpattex/unlocking-the-power-of-collaboration-a-beginners-guide-to-git-f21c9b69f8a6)
