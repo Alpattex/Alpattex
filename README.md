@@ -1,4 +1,4 @@
-# Ahmed Rabea | Full-Stack Developer
+# Ahmed Rabea | Web Developer
 
 Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I bring a blend of skills in HTML, CSS, JavaScript, React, Node.js, and Express to the table. With a solid foundation in database management using MongoDB, PostgreSQL, and SQLite, I'm all about creating robust and dynamic web applications.
 
