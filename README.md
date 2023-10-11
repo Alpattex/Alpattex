@@ -56,7 +56,7 @@ Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I b
 * [10 CSS Tips and Tricks for Absolute Beginners](https://medium.com/@alpattex/web-development-10-css-tips-and-tricks-for-absolute-beginners-d78134d4292c)
 * [Unlocking the Power of Collaboration: A Beginner’s Guide to Git](https://medium.com/@alpattex/unlocking-the-power-of-collaboration-a-beginners-guide-to-git-f21c9b69f8a6)
 
-## Connect with Me
+## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/a-rabea/)
 - [Portfolio](https://portfolio-alpattex.vercel.app/)
 
