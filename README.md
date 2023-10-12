@@ -69,6 +69,6 @@ Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I b
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ## ☕ Support my Work
-If you enjoy what I do and want to support my work, feel free to [buy me a coffe](https://www.buymeacoffee.com/a.rabea). Your support keeps the code flowing!
+If you enjoy what I do and want to support my work, feel free to [buy me a coffe](https://www.buymeacoffee.com/a.rabea). Your support keeps the code flowing.
 
 <a href="https://www.buymeacoffee.com/a.rabea" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
