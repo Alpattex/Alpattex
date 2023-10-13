@@ -10,7 +10,7 @@ Hey there! I'm Ahmed Rabea, a versatile web developer based in Cairo, Egypt. I b
 ## Current Projects
 - 🔭 Actively engaged in diverse web application projects.
 - 🌱 Learning new skills and tools to elevate my development proficiency.
-- 💬 Always open to discussions about web development and eager to share knowledge!
+- 💬 Always open to discussions about web development and eager to share knowledge.
 
 ## 💻 Tech Stack
 
